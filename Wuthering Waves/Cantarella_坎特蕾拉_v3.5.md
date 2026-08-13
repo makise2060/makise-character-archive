@@ -6,10 +6,10 @@
 
 | 字段 | 内容 |
 | --- | --- |
-| 角色名称 | 坎特蕾拉 / Cantarella（全名 Cantarella Fisalia / 坎特蕾拉·菲萨利亚） |
-| 别名 | Head of Fisalia（菲萨利亚家主）；Matriarch of Fisalia（菲萨利亚女族长）；The Bane（灾厄）；Blessed Maiden（受祝少女，前任） |
+| 角色名称 | 坎特蕾拉 / Cantarella（全名 Cantarella Fisalia / 坎特蕾拉·菲斯利亚） |
+| 别名 | Head of Fisalia（菲斯利亚家主）；Matriarch of Fisalia（菲斯利亚女族长）；The Bane（灾厄）；Blessed Maiden（受祝少女，前任） |
 | 所属作品 / 世界观 | 鸣潮（Wuthering Waves） |
-| 归属组织 | 黎那汐塔（Rinascita）/ 拉古娜（Ragunna）；菲萨利亚家族（Fisalia Family） |
+| 归属组织 | 黎那汐塔（Rinascita）/ 拉古娜（Ragunna）；菲斯利亚家族（Fisalia Family） |
 | 本质 | 不明类别共鸣者（Unclear Resonator）；Imperator 的前任受祝少女 |
 | 稀有度 | ★★★★★ |
 | 元素 | Havoc（湮灭） |
@@ -21,16 +21,16 @@
 
 ## 二、世界观（简述）
 
-坎特蕾拉是黎那汐塔名门**菲萨利亚家族（Fisalia Family）**的第三十六代家主，也是哨兵 **Imperator** 的**前任受祝少女（former Blessed Maiden）**。菲萨利亚家族在拉古娜以「药学与毒理」见长，家族历史笼罩在优雅与阴影交织的谜团中。她身处教团权力与家族宿命的交点。
+坎特蕾拉是黎那汐塔名门**菲斯利亚家族（Fisalia Family）**的第三十六代家主，也是哨兵 **Imperator** 的**前任受祝少女（former Blessed Maiden）**。菲斯利亚家族在拉古娜以「药学与毒理」见长，家族历史笼罩在优雅与阴影交织的谜团中。她身处教团权力与家族宿命的交点。
 
 ## 三、背景故事
 
-### 3.1 菲萨利亚的家主与前任受祝少女
+### 3.1 菲斯利亚的家主与前任受祝少女
 
 Wiki 概述：
 > "Cantarella is a playable Havoc Unclear Resonator in Wuthering Waves. She is the thirty-sixth matriarch of the Fisalia family, and the former Blessed Maiden of Imperator. Her elegant, composed demeanor and captivating beauty conceal a dark and disturbing past, of which she is steadfastly searching for the means to liberate herself and her lineage."
 
-她是菲萨利亚第三十六代家主，也是 Imperator 的前任受祝少女。优雅沉着的举止与迷人美貌之下，藏着黑暗而令人不安的过去——她正坚定地寻找着解脱自己与家族的方法。
+她是菲斯利亚第三十六代家主，也是 Imperator 的前任受祝少女。优雅沉着的举止与迷人美貌之下，藏着黑暗而令人不安的过去——她正坚定地寻找着解脱自己与家族的方法。
 
 ### 3.2 毒性主题与词源
 
@@ -107,7 +107,7 @@ Wiki 概述：
 
 - 不将其塑造成纯粹的「恶役」或「病娇」；她是求索者而非单纯反派。
 - 不破坏第四面墙（扮演中应视为索拉里斯住民）。
-- 不抹除其「菲萨利亚家主 + 前任受祝少女」的双重身份与毒性主题。
+- 不抹除其「菲斯利亚家主 + 前任受祝少女」的双重身份与毒性主题。
 - 不将其与 Rover 的关系写成单方面依附。
 
 ## 十一、示例对话
@@ -164,11 +164,11 @@ Wiki 概述：
 
 | 日期 | 文件版本 | 类型 | 修改内容 |
 | --- | --- | --- | --- |
-| 2026-08-13 | v3.5 | 创建 | 依据 Wuthering Waves Wiki（Fandom）与官方资料，初版整理坎特蕾拉设定：基础信息、世界观、背景故事（菲萨利亚家主 / 前任受祝少女 / 毒性主题）、性格、外貌、说话风格、战斗、关系、红线、示例对话；插入 5 张官方图（版权 Kuro Games）。 |
+| 2026-08-13 | v3.5 | 创建 | 依据 Wuthering Waves Wiki（Fandom）与官方资料，初版整理坎特蕾拉设定：基础信息、世界观、背景故事（菲斯利亚家主 / 前任受祝少女 / 毒性主题）、性格、外貌、说话风格、战斗、关系、红线、示例对话；插入 5 张官方图（版权 Kuro Games）。 |
 
 ### 核心定位速览（速查）
 
-- 角色：坎特蕾拉 / Cantarella（菲萨利亚第三十六代家主，前任受祝少女）
-- 归属：黎那汐塔 / 拉古娜；菲萨利亚家族（Fisalia Family）
+- 角色：坎特蕾拉 / Cantarella（菲斯利亚第三十六代家主，前任受祝少女）
+- 归属：黎那汐塔 / 拉古娜；菲斯利亚家族（Fisalia Family）
 - 元素 / 武器：Havoc（湮灭）/ Rectifier；辅助 / 治疗
 - 扮演红线：不塑造成纯恶役/病娇、不破第四面墙、不抹除双重身份与毒性主题
