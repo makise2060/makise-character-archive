@@ -27,36 +27,46 @@
 
 ## 三、背景故事
 
+> 依据游戏内主线（第二章）、好感度角色故事与官方文本整理；简中译名以官方为准（莫塔里 / 黎那汐塔 / 拉古娜 / 菲斯利亚 / 深海教团）。次要 NPC 名依社区汉化。
+
 ### 3.1 莫塔里次女与双重身份
 
-官方角色介绍原文：
-> "Carlotta, the second daughter of the esteemed Montelli family, embodies innate nobility and a refined appreciation for art. Her elegance is matched by her unconventional spirit, unshackled by tradition. To ensure her family's future, she alternates between dual roles, addressing delicate 'troubles' behind the scenes."
+珂莱塔·莫塔里（Carlotta Montelli）是黎那汐塔名门**莫塔里家族（Montelli Family）**的次女。名字 Carlotta 出自意大利语，意为「自由人」；家族金库「埃弗拉德金库」建在山间，姓氏 Montelli 意即「住在山里的人」。明面上，她是「审美品味不凡的艺术投资人」；暗地里，她却是家族的**执行人**，为家族处理那些不可明说的「麻烦」。相关人士有叔父科波拉·莫塔里（家族背叛者）与收养并提拔她的祖父弗朗西斯·莫塔里（家族话事人）。
 
-Wiki 概述：
-> "She is the second daughter of the esteemed Montelli family, embodying innate nobility and a refined appreciation for art... unparalleled intelligence, confidence, cunning, and an ambition to elevate Ragunna City to new heights. She is also determined to protect her family's interests and eliminate those who stand in their way."
+她的异能力「向度重塑」，是将艺术美感融入杀招、以晶体献上死亡致意。
 
-作为莫塔里次女，她天生高贵、对艺术有精炼鉴赏力，兼具智慧、自信与狡黠。为家族未来，她在台前幕后交替双重身份，于暗处处理家族「麻烦」。
+### 3.2 第一章·取武与坦白
 
-### 3.2 性格张力：优雅与不羁
+第一章「那神圣微风时常吹入」中，珂莱塔前往奈亚拉处取走委托制造的「香水」「粉底盒」「珠宝套装」等**武器**，顺便观察追查袭击者的漂泊者与赞妮。二人询问面具线索时，她告知**吉尔贝**定制过类似面具。
 
-她的优雅与「反传统的不羁精神（unconventional spirit, unshackled by tradition）」并存；既有将拉古娜城提升至新高度的野心，也务实到愿亲手清除阻碍家族之路的人。这种「贵气与锋利」的反差是她的魅力核心。
+第二章「夜与昼，均请摘下面纱」里，漂泊者与赞妮被金库守卫误击，珂莱塔赶到制止危机、**坦白身份**，与漂泊者进入金库寻找叔父科波拉（不在场），遂改变行动方式。她说服漂泊者共同行动：委托赞妮存证、取武器、死守保管室；自己与漂泊者分头走备用通道。会合前警报作响，她以敏捷身手在通道关闭前抵达，向漂泊者坦白**另一重身份——家族执行人**。
 
-### 3.3 主线登场
+### 3.3 高塔废墟：神谕、朝圣骗局与「故意打歪」
 
-- Chapter II Act I：*The Sacred Breeze So Often Breathes*
-- Act II：*Veils Off in Sun or Shadow*
-- Act III：*What Yesterday Wept, Today Doth Sing*
-- Act IV：*The Maiden, The Defier, The Death Crier*
-- Act X：*The Bygone Shall Always Return*
-- Act XI：*Dawn Breaks on Dark Tides*
-- Segue：*A Stranger in a Strange Land*
-- 伴星故事：*If On a Rainy Night a Family*；活动：*Your Summer Will Never Wither*、*Deep Sea Survey*
+二人进入调音室抓获背叛者调音师，得知存在问题声骸，找到残星会花瓣。她借琉璃刀伶传达岁主神谕——莫塔里目标与揭露修会朝圣骗局不谋而合，遂带漂泊者往教会禁地**高塔废墟**。漂泊者修复琉璃画后历史重见天日，修会围堵并以科波拉为人质、以家族利益要挟她处决漂泊者；她**故意打歪**、击中危墙「掩埋」漂泊者，随后随修会返回。修会计谋败露后，祖父出面收拾修会、解救科波拉。
 
-### 3.4 资料与考据来源
+### 3.4 第三章：狂欢节、戏剧与弗洛洛
 
-- **官方实装**：游戏内角色档案、Version 2.0 剧情文本、官方网站角色介绍、Fandom Wiki 角色页。
-- **非官方/待考**：与 Cartethyia / Cantarella / Roccia 的具体剧情连接、与 Rover / Zani 的关系，页面仅列同地区导航而未展开；外貌细节需查 Gallery 子页。本文以页面明示事实为限。
-- **家族亲族（明确记载）**：祖父 Francesco Montelli；叔父 Capollo Montelli。
+第三章「昔我悲伤，今却歌唱」中，愚人剧团排演戏剧以掩盖狂欢节变故，珂莱塔与漂泊者任主角。狂欢节上问题声骸袭来，二人按舞台剧掩护击退声骸，直面残星会**弗洛洛（Florelo）**。危机结束后，漂泊者请她调查**卡提希娅**（圣女芙露德莉斯本名，据称二十年前殉道），她询菲比后得知实情。
+
+第四章「圣者，忤逆者，告死者」中，漂泊者赴波蒂维诺堡途中，珂莱塔通讯表示若菲斯利亚不利会冲入保护，并于赴约期间继续协助。
+
+### 3.5 好感度角色故事：从家族工具到「以珂莱塔的名义」
+
+- **好感1「筹码与艺术」**：雨夜拍卖会上，她以举牌加码诱使夸谈客人跟拍，临落槌前弃价，使对方以高价得画；暗处让孩子传「莫塔里志在必得」的消息抬价，并安慰受助女人「画值此价」。自述：「这是一场博弈，而她要掌握输赢。」
+- **好感2「迟来的过去」**：雨夜寻访十年前袭击莫塔里本部、致成员死伤、投奔菲斯利亚的老人，宣「以莫塔里名义宣读讣告」，以晶体枪清偿血债，留「债已清偿」纸笺，感悟「莫塔里人不因死亡消亡，信任与承诺需以旧账了结」。
+- **好感3「死与舞的宴请」**：舞会中与菲斯利亚的美艳女子共舞周旋、为其遮掩暗处行动；对方欲退时被拉回舞步，后变缠斗。致幻毒素入体，她笑着引璀璨晶体与对方「孩子们」共舞至死：「为他人送葬的人，怎会被死神幸免？」
+- **好感4「以莫塔里的名义」**：伤愈遇祖父，忆起被交嵌欧泊石手套、准为执行人。祖父警语：「真正的莫塔里不以家族为全部，须自定规则。」祖父拒其即刻复工，命写邀黑海岸函，雨夜将家族未来交其手。
+- **好感5「以珂莱塔的名义」**：黄昏码头悟祖父深意——她留执行人位乃自择，非教条束缚；与漂泊者揭科波拉背誓后，明「只属珂莱塔的部分」。她称漂泊者为「猫眼石」，予其入自我画作之许，预言「命运终会把你带到我面前」。
+
+### 3.6 关键关系与意象
+
+- **漂泊者（Rover）**：主线并肩揭史，被其称「猫眼石」；她许诺更不加掩饰的自己，谓「命运终会把你带到我面前」。
+- **赞妮**：金库同僚，受托存证守室。
+- **科波拉叔父**：家族背叛者，终被祖父救。
+- **祖父弗朗西斯**：收养者与话事人，授执行人手套，导其自定规则。
+- **坎特蕾拉·菲斯利亚**：舞会对手、暗斗（好感3）；两大家族对立。
+- **意象**：晶体（欧泊 / 猫眼石）、夜雨、舞步、博弈与「最优渥的条件」、锚点（莫塔里为锚亦破锚）。
 
 ## 四、性格
 

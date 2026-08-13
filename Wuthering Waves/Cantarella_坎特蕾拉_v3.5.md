@@ -25,32 +25,57 @@
 
 ## 三、背景故事
 
-### 3.1 菲斯利亚的家主与前任受祝少女
+> 依据游戏内角色档案、好感度角色故事与官方文本整理；简中译名以官方为准（菲斯利亚 / 黎那汐塔 / 拉古娜 / 深海教团 / 岁主 Imperator）。次要 NPC 名依社区汉化。萌百将 Fisalia 写作「翡薩烈」、将本角色作「坎特蕾拉·翡薩烈」，本文统一采用官方简中「菲斯利亚」。
 
-Wiki 概述：
-> "Cantarella is a playable Havoc Unclear Resonator in Wuthering Waves. She is the thirty-sixth matriarch of the Fisalia family, and the former Blessed Maiden of Imperator. Her elegant, composed demeanor and captivating beauty conceal a dark and disturbing past, of which she is steadfastly searching for the means to liberate herself and her lineage."
+### 3.1 家族宿命：毒与药的世家
 
-她是菲斯利亚第三十六代家主，也是 Imperator 的前任受祝少女。优雅沉着的举止与迷人美貌之下，藏着黑暗而令人不安的过去——她正坚定地寻找着解脱自己与家族的方法。
+坎特蕾拉出身黎那汐塔·拉古娜的**菲斯利亚家族（Fisalia Family）**，是该家族**第三十六代家主**，别号「毒药」坎特蕾拉。菲斯利亚以**药学与毒理**见长，家族秘方与毒物研究是世代传统（如《毒药配方大全》《菲斯利亚家传秘药谱集》）。
 
-### 3.2 毒性主题与词源
+- **词源**：名 *Cantarella* 出自传说毒药「坎特雷拉」，为文艺复兴时期波吉亚家族秘方；姓 *Fisalia* 音同 *Physalia*（僧帽水母属，最剧毒水母之一）——毒与海的意象刻在名字里。
+- **异能分型**：一般族人为致死毒，坎特蕾拉却是罕见的**幻觉毒（幻梦）**：不立刻致死，中毒者沉沦过久才致命，精妙时甚至无实质损伤；但她发动异能时自身也会受损伤。
 
-- **词源**：名字可能源自术语 *cantarella*——一种据称在意大利文艺复兴时期被西班牙皇室使用的毒药（Wikipedia: Cantarella）。毒性主题直接体现在其固有技能命名 `"Cure"`（治愈）与 `"Poison"`（毒）之中。
-- 官方角色介绍原文：
-  > "The Fisalia family's thirty-sixth head, Cantarella Fisalia. She locks your gaze with eyes as deep as the ocean, where dark tides seem to surge and swirl. For a moment, you think you glimpse something in the ocean's depths—but you are unsure if it is the shadow of a giant sea creature... or the tail feathers of the Celestial Steed."
+### 3.2 幼年：牢笼、毒书与对飞鸟的渴望
 
-### 3.3 主线登场
+被养在空旷宅邸的她，自幼熟记毒药书，父母常反锁家门、忙碌而瘦削，喝着「水」嘟囔「菲斯利亚的荣耀，菲斯利亚的宿命」。因资历出众，她被选为**试炼候选人**，送行时父母含泪骄傲：「成为试炼的候选人，是菲斯利亚的荣耀，也是菲斯利亚的宿命。」
 
-- Chapter II Act IV：*The Maiden, The Defier, The Death Crier*
-- Act V：*Shadow of Glory*
-- Act X：*The Bygone Shall Always Return*
-- Act XI：*Dawn Breaks on Dark Tides*
-- Segue：*A Stranger in a Strange Land*
-- 伴星故事：*A Fleeting Night's Dream*；探索：*Should the Shooting Stars Blaze*；活动：*Memory Travelogue*
+她渴望窗外飞鸟与自由，却被禁读童话，只能背诵毒物学。
 
-### 3.4 资料与考据来源
+### 3.3 试炼与「紫绒梦」的诞生
 
-- **官方实装**：游戏内角色档案、Version 2.0/2.2 剧情文本、官方网站角色介绍、Fandom Wiki 角色页。
-- **非官方/待考**：家族「黑暗过去」的具体内容、她与 Cartethyia / Phoebe 在 2.0–2.2 黎那汐塔故事中的具体互动，页面仅列任务名而未展开叙事；同地区共鸣者（Carlotta、Roccia、Cartethyia 等）在导航栏同列但无正文关系说明。本文以页面明示事实为限。
+昏暗房中熬药的白衣少女（即坎特蕾拉视角）记录弱毒方以治婴幼儿灰质症、强毒方以中和麻痹，并创出秘药「**紫绒梦**」（藤壶鱼叶 + 紫绒丝花汁 + 海秋葵粘液 + 海苹果汁发酵），能舒缓精神、中和中毒。
+
+试炼中她提前喝下大量紫绒梦，将瑰红水母扣在头上，剧毒冲撞几乎撕扯灵魂，却引出小水母灯，成就「幻梦」异能。此后她长期徘徊生死、梦醒之间，并偶见一个戴红帽女孩的幻影（身份不明）。
+
+### 3.4 继任家主与圆桌会议的迷局
+
+成为家主后，紫发蓝紫眼的她拨弄蓝宝石吊坠，召集模糊人影讨论「停留在幻梦，还是回归现实」：
+- 一位年长强势的同族女士主张把「紫绒梦」倒入瀑布以控拉古娜 → 投幻梦票；
+- 白衣少女（过去的自己？）弃权：「哪里都一样」；
+- 趴在沙发上的小女孩稚声说「遵从本心」。
+
+坎特蕾拉无奈主持，未决。
+
+### 3.5 荆棘冠与抉择
+
+深紫毒冠戴上有刺痛，由历代血泪浇铸；唯有「幻梦」能消解低语对菲斯利亚毒力的啃噬。她决意投「幻梦」票，却玩笑说倒瀑布控拉古娜只是玩笑——「无意掌控整个拉古娜，只是想让大家过得舒服点」。幻梦既已入血管，无法剥离。
+
+后因怀念土地踏实感，她改投「现实 / 梦的彼岸」票：想推开门、跟着飞鸟，寻所有人的幸福结局。
+
+### 3.6 清明梦：与漂泊者的宁静午后
+
+午后方可可小睡醒来，她倒上清冽新茶（而非迷幻的紫），最终立意：
+- 继续戴荆棘冠（毒已入骨，幻梦无法剥离）；
+- 继续熬秘药（有人需要，不止菲斯利亚）；
+- 跨出门追飞鸟、去山野市井，低语囚笼散去——「仍在幻梦里，但努力让脚落到地上……半梦半醒抓实感」。
+
+来访的客人正是**漂泊者（Rover，黑发金眼）**，赐予她「惬意的午后时光」之奇迹；她倒茶，蓝紫眼雾散，泛起平静涟漪。角色档案写道：「自从你將她带离幽海，她已经很久没有梦魇了」，而她将盛着难得真心与柔情的秘药瓶，托付给「涉过暗潮、抵达海底的你」。
+
+### 3.7 关键关系与意象
+
+- **漂泊者（Rover）**：将她带离幽海、消解梦魇的访客；她以秘药瓶托付真心。
+- **菲斯利亚家族**：世代背负毒与宿命，她是第三十六代、试图以「幻梦」解局的家主。
+- **卡提希娅 / 菲比**：同属黎那汐塔阵营的共鸣者（官方主线交叉有限，以同地区登场呈现）。
+- **意象**：海中梦 / 幻影之海（中毒者见内心渴望或谎言）、荆棘冠（血泪浇铸）、水母灯与紫绒梦（毒与治愈的双生）、海如镜（映照灵魂）。
 
 ## 四、性格
 
