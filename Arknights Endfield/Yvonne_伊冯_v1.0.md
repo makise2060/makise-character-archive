@@ -90,11 +90,15 @@
 
 ## 十一、图片素材（可选但推荐）
 
-> 版权归属 **鹰角网络（Hypergryph）**；来源：Arknights: Endfield 官方美术。
+> 版权归属 **鹰角网络（Hypergryph）**；立绘来源：warfarin.wiki（第三方图站，直链 `static.warfarin.wiki`，角色 chr id 0017）。
 
 **角色立绘 / Character Art**
 
-> 官方立绘待补充：公开 Wiki（Fandom）暂未收录本角色立绘，官网为 SPA 渲染、新闻图有防盗链，需从 endfield.hypergryph.com 角色页手动导出后放入 `images/` 并补充引用。
+![伊冯立绘](images/Yvonne_characterportrait.webp)
+
+![伊冯头像](images/Yvonne_icon.webp)
+
+![伊冯形象图](images/Yvonne_imageposter.webp)
 
 ---
 

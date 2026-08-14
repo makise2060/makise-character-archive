@@ -94,11 +94,15 @@
 
 ## 十一、图片素材（可选但推荐）
 
-> 版权归属 **鹰角网络（Hypergryph）**；来源：Arknights: Endfield 官方美术。
+> 版权归属 **鹰角网络（Hypergryph）**；立绘来源：warfarin.wiki（第三方图站，直链 `static.warfarin.wiki`，角色代号 lizhiyan / chr id 0032）。
 
 **角色立绘 / Character Art**
 
-> 官方立绘待补充：公开 Wiki（Fandom）暂未收录本角色立绘，官网为 SPA 渲染、新闻图有防盗链，需从 endfield.hypergryph.com 角色页手动导出后放入 `images/` 并补充引用。
+![诀立绘](images/Arcane_characterportrait.webp)
+
+![诀头像](images/Arcane_icon.webp)
+
+![诀形象图](images/Arcane_imageposter.webp)
 
 ---
 
