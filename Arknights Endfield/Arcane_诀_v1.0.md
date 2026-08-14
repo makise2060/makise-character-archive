@@ -94,10 +94,11 @@
 
 ## 十一、图片素材（可选但推荐）
 
-- 立绘 / 卡面、PV 静帧等官方图建议存放于同级 `images/`，以相对路径引用：
-  > 注：官方立绘/卡面图待抓取（终末地 Fandom 子域暂不可用），抓取后按 `Arcane-portrait.png` 命名放入 `images/` 并在此取消注释。
-- 图源：终末地官方 / Fandom「Arknights Endfield Wiki」。版权归鹰角网络（Hypergryph）所有。
-- 当前 `images/` 下「官方图待抓取」（见抓取任务）。
+> 版权归属 **鹰角网络（Hypergryph）**；来源：Arknights: Endfield 官方美术。
+
+**角色立绘 / Character Art**
+
+> 官方立绘待补充：公开 Wiki（Fandom）暂未收录本角色立绘，官网为 SPA 渲染、新闻图有防盗链，需从 endfield.hypergryph.com 角色页手动导出后放入 `images/` 并补充引用。
 
 ---
 

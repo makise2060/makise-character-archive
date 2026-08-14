@@ -131,7 +131,7 @@
 
 ## 十二、图片素材（来自官方 Wiki）
 
-> 版权归属 **Kuro Games**；来源：Wuthering Waves Wiki（Fandom）。以下图片存放于同级 `images/` 目录，使用相对路径引用。
+> 版权归属 **Kuro Games**；来源：Wuthering Waves Wiki（Fandom）。
 
 **卡面 / Card**
 

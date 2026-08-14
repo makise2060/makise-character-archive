@@ -93,10 +93,15 @@
 
 ## 十一、图片素材（可选但推荐）
 
-- 立绘 / 卡面、唤取（Convene）画面、资料表等官方图建议存放于同级 `images/`，以相对路径引用：
-  > 注：官方立绘/卡面图待抓取（Fandom 网络受限，大图易 `IncompleteRead`），抓取后按 `Nanally-Coluccis-portrait.png` 命名放入 `images/` 并在此取消注释。
-- 图源：异环官方 / Fandom「Neverness to Everness Wiki」。版权归完美世界 Hotta Studio 所有。
-- 当前 `images/` 下「官方图待抓取」（见抓取任务）。
+> 版权归属 **完美世界 Hotta Studio**；来源：Neverness to Everness 官方美术。
+
+**卡面 / Card**
+
+![娜娜莉卡面](images/nanally-card.png)
+
+**立绘 / Portrait**
+
+![娜娜莉立绘](images/nanally-portrait.png)
 
 ---
 
